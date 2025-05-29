@@ -23,8 +23,8 @@ When using adjoint mode we differentiate code in reverse order, starting with fu
 To use the code, clone the repository and install the dependencies listed in `requirements.txt`.
 
 ```bash
-git clone https://github.com/its-adityagoyal/Algorithmic-Differentiation.git
-cd Algorithmic-Differentiation
+git clone https://github.com/its-adityagoyal/Efficient-Greeks-AAD.git
+cd Efficient-Greeks-AAD
 pip install -r requirements.txt
 
 
